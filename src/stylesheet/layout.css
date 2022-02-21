@@ -1,0 +1,35 @@
+.header{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+.content{
+    padding-top:80px;
+}
+
+.navbar{
+    background-color:#003f5c !important ; 
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+    font-weight: bold;
+}
+.navbar-toggler{
+    color: white !important;
+}
+.footer{
+    padding:10px;
+    text-align: center;
+    background-color: #003f5c;
+    color:azure;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
